@@ -1,2 +1,3 @@
 # sidd-demo
-This is Git Repository
+This is my first Git Repository
+Author-Faizan
